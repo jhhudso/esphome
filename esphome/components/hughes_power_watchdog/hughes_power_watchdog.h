@@ -13,7 +13,7 @@
 namespace esphome {
 namespace hughes_power_watchdog {
 
-static const char *const SERVICE_UUID = "0000ffe0-0000-1000-8000-00805f9b34fb";            // vendor specific
+static const char *const SERVICE_UUID = "000000ff-0000-1000-8000-00805f9b34fb";            // vendor specific
 static const char *const CHARACTERISTIC_UUID_TX = "0000ffe2-0000-1000-8000-00805f9b34fb";  // TX
 static const char *const CHARACTERISTIC_UUID_RX = "0000fff5-0000-1000-8000-00805f9b34fb";  // RX
 
